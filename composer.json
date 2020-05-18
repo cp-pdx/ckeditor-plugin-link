@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor-plugin/link",
+  "name": "municodepdx/ckeditor-link",
   "description": "CKEditor 4 link",
   "type": "drupal-library",
   "version": "4.14.0"
