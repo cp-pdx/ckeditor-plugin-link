@@ -1,0 +1,6 @@
+{
+  "name": "ckeditor-plugin/link",
+  "description": "CKEditor 4 link",
+  "type": "drupal-library",
+  "version": "4.14.0"
+}
